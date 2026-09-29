@@ -1,8 +1,1 @@
-{
-  "name":"style-me-ai-v2",
-  "version":"1.0.0",
-  "private":true,
-  "description":"STYLE ME AI V2",
-  "scripts":{"build":"echo build-not-required"},
-  "dependencies":{"openai":"^5.0.0","replicate":"^1.0.0"}
-}
+{"name":"style-me-ai-v2","version":"2.0.0","private":true,"description":"STYLE ME AI V2 - Vercel","scripts":{"build":"echo no-build-required"}}
