@@ -1,9 +1,9 @@
-# STYLE ME AI V2 — Vercel
+# STYLE ME AI V2 — Vercel FIXED 4
 
-نسخة مستقلة عن المشروع القديم، ومجهزة للنشر على Vercel.
+هذه النسخة تستخدم `public/index.html` للواجهة و`api/generate.js` كـ Vercel Function.
 
-متغيرات البيئة المطلوبة:
+متغيرات البيئة المطلوبة في Vercel:
 - OPENAI_API_KEY
 - REPLICATE_API_TOKEN
 
-لا تضع المفاتيح داخل index.html.
+لا تضع المفاتيح داخل الواجهة.
